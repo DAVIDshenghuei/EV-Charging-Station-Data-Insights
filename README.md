@@ -1,4 +1,4 @@
-# Spark-Projects: Electric Vehicle Charging Stations Data Analysis
+# Electric Vehicle Charging Stations Data Analysis
 The data from Boulder County, Colorado in 2019.
 
 ## Project Overview
